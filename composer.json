@@ -1,0 +1,17 @@
+{
+    "name": "hassan-elshazly-eida/kafka-queue",
+    "require": {
+        "laravel/framework": "^8.75"
+    },
+    "autoload": {
+        "psr-4": {
+            "HassanElshazlyEida\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HassanElshazlyEida",
+            "email": "hassanaboeata@gmail.com"
+        }
+    ]
+}
